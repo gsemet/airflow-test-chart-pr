@@ -1,0 +1,4 @@
+[submodule "charts"]
+	path = charts
+	url = https://gsemet@github.com/gsemet/charts.git
+	branch = airflow
